@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Receives no argument value
+ * main - Entry point and receives no argument value
  *
- * return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
